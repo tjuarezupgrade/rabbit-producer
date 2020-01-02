@@ -1,0 +1,2 @@
+# rabbit-producer
+RabbitMQ producer
