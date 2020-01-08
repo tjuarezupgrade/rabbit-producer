@@ -1,7 +1,5 @@
 package com.upgrade.poc.rabbitproducer.model;
 
-import com.fasterxml.jackson.annotation.JsonIdentityInfo;
-import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import lombok.Data;
 import lombok.ToString;
 
@@ -12,5 +10,4 @@ public class SpectrumMessage {
     private String transaction;
 
     private String amount;
-
 }
